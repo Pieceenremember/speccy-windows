@@ -18,11 +18,13 @@ Speccy · MoggyDay · 1.34 · v1.34.084
 
 MoggyDay keeps one stable URL for Speccy: EN / RU. Speccy on Windows 10/11 x64. 12 MB. Requirements, screenshots, MoggyDay Launcher.
 
+**Open the site to download:** [EN](https://moggydayprogram.com/en/programs/speccy) · [RU](https://moggydayprogram.com/programs/speccy)
+
 ## Download
 
 1. Open [Speccy EN](https://moggydayprogram.com/en/programs/speccy) or [Speccy RU](https://moggydayprogram.com/programs/speccy).
 2. Stay on moggydayprogram.com.
-3. Use the primary button on that card. Prefer [MoggyDay Launcher](https://moggydayprogram.com/launcher) if the archive is large.
+3. Open the catalog card and download there. No package is attached here.
 4. After a catalog update, reload the same program URL.
 
 ## Official links
